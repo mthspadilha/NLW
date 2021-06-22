@@ -1,0 +1,2 @@
+yarn add tsc-node-dev faz converte o ts pra js automatico
+adicionar dependencia no package.json
