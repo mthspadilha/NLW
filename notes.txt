@@ -1,2 +1,5 @@
 yarn add tsc-node-dev faz converte o ts pra js automatico
 adicionar dependencia no package.json
+---
+ORM: Automatizar tarefas no banco de dados
+tipo o springboot
